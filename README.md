@@ -19,4 +19,4 @@ ibirchl@ncsu.edu
 ###
 This directory contains assembled sequence data, ESMfold coordinates, newick formatted tree files, PCA, loadings and scores, and associated scripts for analyzing Artiodactyla CD300 receptors.
 
-For a more detailed summary and usage instructions see 'summary.md'
+For a more detailed summary and usage instructions see **summary.md**
