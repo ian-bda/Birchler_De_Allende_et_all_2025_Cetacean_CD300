@@ -13,10 +13,10 @@ Alex Dornburg1, Ian Birchler De Allende2,4, Amandine, Bruno, Taylor C. Powell1, 
 
 Electronic Data Files prepared by:
 
-Ian Birchler De Allende
+Ian Birchler De Allende:
 ibirchl@ncsu.edu
 
 ###
-This directory contains assembled sequence data, ESMfold coordinates, newick formatted tree files, PCA, loadings and scores, and associated scripts for analyzing Artiodactyla CD300 receptors.
+This directory contains assembled sequence data, ESMfold coordinates, newick formatted tree files, PCA, loadings and scores, and associated scripts for evolutionary analysis of Artiodactyla CD300 receptor protein shapes.
 
 For a more detailed summary and usage instructions see **summary.md**
