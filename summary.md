@@ -96,7 +96,7 @@ sbatch Tree/Scripts/make_ultrametric_tree.sh
 
 **Manual execution:**
 ```bash
-Rscript BiFrost/scripts/make_ultrametric_tree.R \
+Rscript Tree/scripts/make_ultrametric_tree.R \
     Tree/Tree_for_Analysis/Arteodactyl_ig_hits_no_PIGR_single_domain_iqtree.treefile \
     Tree/Tree_for_Analysis/Arteodactyl_ig_hits_no_PIGR_single_domain_iqtree_ultrametric.nwk
 ```
