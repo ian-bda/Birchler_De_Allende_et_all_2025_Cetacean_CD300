@@ -326,6 +326,8 @@ Where:
 - Standard deviation of each column = 1 (unit variance)
 - All coordinate dimensions are on the same scale
 
+---
+
 ### Disparity Analysis
 
 **Script**: `Scripts/pca/disparity_analysis.py`  
