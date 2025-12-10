@@ -74,10 +74,21 @@ python3 Scripts/pca/structural_pca.py \
 - `--max-length N`: Pad/truncate all structures to N residues
 - `--output-dir PATH`: Directory for output files
 
-### Step 3: Convert Tree to Ultrametric (Time-Calibrated)
+### Step 3: Make Tree and Convert Tree to Ultrametric (Time-Calibrated)
 
 **Important**: For time-based evolutionary analyses (phylomorphospace, evolutionary models, phenograms, etc.), the tree must be ultrametric (all tips equidistant from root). IQ-TREE produces phylograms (branch lengths = substitutions), which need to be converted to chronograms (branch lengths = time).
 
+**Famsa (for alignment):**
+```bash
+sbatch Tree/Scripts/famsa.sh
+```
+
+**IQtree:**
+```bash
+sbatch Tree/Scripts/iqtree.sh
+```
+
+**Make Ultrametric:**
 **Using SLURM (recommended):**
 ```bash
 sbatch Tree/Scripts/make_ultrametric_tree.sh
