@@ -1,0 +1,11 @@
+statistic,value
+n_pairs,17578.0
+mean_morphological_distance,21.59133799871279
+mean_phylogenetic_distance,1.2179584519471482
+slope,18.459252999684317
+intercept,-0.8912652088834747
+r_squared,0.4377721530576024
+pearson_r,0.6616435241560236
+pearson_p,0.0
+spearman_r,0.7176657988485143
+spearman_p,0.0
