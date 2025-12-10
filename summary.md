@@ -147,8 +147,6 @@ Rscript Scripts/pca/phylomorphospace_from_pca.R \
 - `PC_x` (optional): PC for X-axis (default: PC1)
 - `PC_y` (optional): PC for Y-axis (default: PC2)
 
-**Note**: The colored version automatically excludes humans and colors points by family (Cetacean, Terrestrial Artiodactyl) with different shapes for each family.
-
 ### Step 5: Perform Disparity Analysis
 
 **Using ultrametric tree (recommended):**
