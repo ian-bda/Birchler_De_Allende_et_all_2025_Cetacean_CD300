@@ -3,7 +3,7 @@ Supplemental Electronic Data files for ______ (cite)
 
 Immunogenetic Consequences of Habitat Transitions in Marine Mammals: CD300 Evolution in Cetaceans
 
-Alex Dornburg(n<sup>1</sup>) , Ian Birchler De Allende^2,4^, Amandine, Bruno, Taylor C. Powell1,  Logan Bass, Jeffrey A. Yoder^2,3,4,5^
+Alex Dornburg(<sup>1</sup>) , Ian Birchler De Allende^2,4^, Amandine, Bruno, Taylor C. Powell1,  Logan Bass, Jeffrey A. Yoder^2,3,4,5^
 
 1. Department of Bioinformatics and Genomics, University of North Carolina at Charlotte, Charlotte, North Carolina, USA
 2. Genetics and Genomics Academy, North Carolina State University, Raleigh, North Carolina, USA
